@@ -1,0 +1,39 @@
+[
+    {
+        "image": "../assets/Face1.png",
+        "name": "Face1"
+    },
+    {
+        "image": "../assets/Face2.jpg",
+        "name": "Face2"
+    },
+    {
+        "image": "../assets/Face3.png",
+        "name": "Face3"
+    },
+    {
+        "image": "../assets/Face4.jpeg",
+        "name": "Face4"
+    },
+    {
+        "image": "../assets/Face5.jpeg",
+        "name": "Face5"
+    },
+    {
+        "image": "../assets/Face6.jpeg",
+        "name": "Face6"
+    },
+    {
+        "image": "../assets/Face7.jpeg",
+        "name": "Face7"
+    },
+    {
+        "image": "../assets/Face8.jpeg",
+        "name": "Face8"
+    },
+    {
+        "image": "../assets/Face9.jpeg",
+        "name": "Face9"
+    }
+
+]
